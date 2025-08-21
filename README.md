@@ -1,16 +1,14 @@
-## Repository name
-Your repostiory should be named something like `async-final-project-color-name`
-Example: `async-final-project-teal-Anas`
+## async-final-project-blue-Harrison
 
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Netflix Data](https://www.kaggle.com/datasets/rohitgrewal/netflix-data )
 
 ## Why did I chose this dataset?
 
-[Placeholder for answer]
+I don't actually use Netflix. Maybe one day when I do, I'll have a good idea of what I want to watch. Otherwise, I'd like to know more about popular media.
 
 ## Progress
-- [ ] Picked dataset
+- [X] Picked dataset
 - [ ] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
